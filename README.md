@@ -1,1 +1,3 @@
-# portfolio
+# Anup Kumar Portfolio
+
+Personal portfolio website built with HTML, CSS, and JavaScript.
